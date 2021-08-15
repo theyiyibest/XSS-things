@@ -7,4 +7,4 @@ info:
     name: "API Support",
     url: "javascript:alert(document.cookie)",
     email: "javascript:alert(document.cookie)"
-  version: "1.0.1"
+    version: "1.0.1"
