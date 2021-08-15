@@ -6,7 +6,7 @@ securityDefinitions:
 info:
   version: "0.0.1"
   title: Example Title
-  description: Please Authorize!
+  description: <img src=x onerror="alert('all your base are belong to us')">
 paths:
   /:
     get:
