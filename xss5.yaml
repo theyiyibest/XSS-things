@@ -4,6 +4,7 @@ securityDefinitions:
   a:
     type: oauth2
     authorizationUrl: javascript:alert(document.domain)//
+    tokenUrl: javas\cript:alert(1)
 info:
   version: "0.0.1"
   title: Example Title
