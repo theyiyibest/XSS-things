@@ -1,0 +1,19 @@
+swagger: '2.0'
+description: |
+   # Pet Store APIs
+   ![TEST](https://www.baeldung.com/wp-content/uploads/2017/06/homepage-weekly_reviews.jpg)
+securityDefinitions:
+  a:
+    type: oauth2
+    authorizationUrl: javascript:alert(document.domain)//
+info:
+  version: "0.0.1"
+  title: Example Title
+  description: <img src=https://as01.epimg.net/meristation/imagenes/2022/01/19/noticias/1642581303_411359_1642581598_sumario_normal.jpg 
+               onload="alert(1)">
+paths:
+  /:
+    get:
+      responses:
+        200:
+          description: Successful respons
