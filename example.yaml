@@ -1,0 +1,14 @@
+description: |
+  The API returns user details for a given username. 
+  The API can be invoked using *curl* like below:
+  ```
+  curl --header accept: application/json -u username:password http://localhost:8080/api/v2/user/jhondoe
+  ```
+  **Sample Output**
+  ```
+  {
+    "id": 2,
+    "username": "jhondoe"
+    "email": "jhon.doe@mail.com"
+  }
+  ```
