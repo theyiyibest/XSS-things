@@ -8,7 +8,7 @@ securityDefinitions:
 info:
   version: "0.0.1"
   title: Example Title
-  description: <img src=https://as01.epimg.net/meristation/imagenes/2022/01/19/noticias/1642581303_411359_1642581598_sumario_normal.jpg onload="alert(1)">
+  description: <img src=https://as01.epimg.net/meristation/imagenes/2022/01/19/noticias/1642581303_411359_1642581598_sumario_normal.jpg\%09onload="alert(1)">
 paths:
   /:
     get:
